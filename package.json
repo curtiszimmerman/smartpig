@@ -1,0 +1,25 @@
+{
+  "name": "smartpig",
+  "version": "0.0.1",
+  "description": "Smart pipeline pig. A modular, environment-aware dummy server for testing CI/CD infrastructure.",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/curtiszimmerman/smartpig.git"
+  },
+  "keywords": [
+    "dummy"
+  ],
+  "author": "Curtis Zimmerman <software@curtisz.com> (http://curtisz.com/)",
+  "license": "AGPLv3",
+  "bugs": {
+    "url": "https://github.com/curtiszimmerman/smartpig/issues"
+  },
+  "homepage": "https://github.com/curtiszimmerman/smartpig",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
